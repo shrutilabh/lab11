@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//I am currently doing lab11 and learning how to use github. This program is being used for these purposes
 public class NumericConversion {
 
     public static long hexStringDecode(String hex){
